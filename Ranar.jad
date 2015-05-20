@@ -1,0 +1,15 @@
+Created-By: 1.4.2_08 (Sun Microsystems Inc.)
+MIDlet-1: Ranar, Ranar.png, PotroLekhok.MainMenu
+MIDlet-Data-Size: 0
+MIDlet-Description: A Bengali SMS Application Demo
+MIDlet-Jar-Size: 26655
+MIDlet-Jar-URL: Ranar.jar
+MIDlet-Name: Ranar
+MIDlet-Permissions: javax.microedition.io.Connector.sms,javax.wireless.messaging.sms.receive,javax.wireless.messaging.sms.send,javax.microedition.io.PushRegistry
+MIDlet-Push-1: sms://:5001, PotroLekhok.MainMenu, *
+MIDlet-Vendor: Mahmudul Faisal Al Ameen
+MIDlet-Version: 1.0
+Manifest-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
+SMS-Port: 5001
